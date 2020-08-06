@@ -72,14 +72,19 @@ body {
   }
 
 .maincontent{
-  color:#000;
-  
+  color:#000;  
 }
+
+h2{
+  color:#941336  ;
+}
+
 section{
-  padding-right:10px;
   background-color:#85929E;
-  
-  margin-bottom:20px;
- /* width:100%;*/
+  padding:5px;
+  margin-bottom:50px;
+  margin-left:50px;
+  margin-right:50px;
+  box-sizing: border-box;
 }
 
